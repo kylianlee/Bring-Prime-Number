@@ -1,0 +1,3 @@
+/Users/kylianlee/CLionProjects/Bring-Prime-Number/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kylianlee/CLionProjects/Bring-Prime-Number/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kylianlee/CLionProjects/Bring-Prime-Number/cmake-build-debug/CMakeFiles/Bring_Prime_Number.dir
